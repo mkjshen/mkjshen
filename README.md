@@ -4,7 +4,7 @@
   <a href="https://linkedin.com/in/mitchelshen">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://instaggram.com/_mitchelshen">
+  <a href="https://instagram.com/_mitchelshen">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>

@@ -35,7 +35,7 @@
 
 ---
 
-### :fire: My Interests :
+<!-- ### :fire: My Interests :
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg" title="Manchester United" alt="Manchester United" weidth="250" height"250"/>
   
